@@ -7,44 +7,44 @@ AvatarMask:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: UpperAvatar 2
-  m_Mask: 00000000010000000100000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
   m_Elements:
   - m_Path: 
     m_Weight: 1
   - m_Path: DeformationSystem
     m_Weight: 1
   - m_Path: DeformationSystem/Root_M
-    m_Weight: 0
+    m_Weight: 1
   - m_Path: DeformationSystem/Root_M/LegCenter_M
-    m_Weight: 0
+    m_Weight: 1
   - m_Path: DeformationSystem/Root_M/LegCenter_M/Hip_L
-    m_Weight: 0
+    m_Weight: 1
   - m_Path: DeformationSystem/Root_M/LegCenter_M/Hip_L/HipPart1_L
-    m_Weight: 0
+    m_Weight: 1
   - m_Path: DeformationSystem/Root_M/LegCenter_M/Hip_L/HipPart1_L/HipPart2_L
-    m_Weight: 0
+    m_Weight: 1
   - m_Path: DeformationSystem/Root_M/LegCenter_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L
-    m_Weight: 0
+    m_Weight: 1
   - m_Path: DeformationSystem/Root_M/LegCenter_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L/Ankle_L
-    m_Weight: 0
+    m_Weight: 1
   - m_Path: DeformationSystem/Root_M/LegCenter_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L/Ankle_L/Toes_L
-    m_Weight: 0
+    m_Weight: 1
   - m_Path: DeformationSystem/Root_M/LegCenter_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L/Ankle_L/Toes_L/ToesEnd_L
-    m_Weight: 0
+    m_Weight: 1
   - m_Path: DeformationSystem/Root_M/LegCenter_M/Hip_R
-    m_Weight: 0
+    m_Weight: 1
   - m_Path: DeformationSystem/Root_M/LegCenter_M/Hip_R/HipPart1_R
-    m_Weight: 0
+    m_Weight: 1
   - m_Path: DeformationSystem/Root_M/LegCenter_M/Hip_R/HipPart1_R/HipPart2_R
-    m_Weight: 0
+    m_Weight: 1
   - m_Path: DeformationSystem/Root_M/LegCenter_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R
-    m_Weight: 0
+    m_Weight: 1
   - m_Path: DeformationSystem/Root_M/LegCenter_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R/Ankle_R
-    m_Weight: 0
+    m_Weight: 1
   - m_Path: DeformationSystem/Root_M/LegCenter_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R/Ankle_R/Toes_R
-    m_Weight: 0
+    m_Weight: 1
   - m_Path: DeformationSystem/Root_M/LegCenter_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R/Ankle_R/Toes_R/ToesEnd_R
-    m_Weight: 0
+    m_Weight: 1
   - m_Path: DeformationSystem/Root_M/Spine1_M
     m_Weight: 1
   - m_Path: DeformationSystem/Root_M/Spine1_M/Spine2_M

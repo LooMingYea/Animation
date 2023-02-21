@@ -324,7 +324,7 @@ AnimatorController:
   - serializedVersion: 5
     m_Name: ShotLayer
     m_StateMachine: {fileID: -4934800477432341432}
-    m_Mask: {fileID: 0}
+    m_Mask: {fileID: 31900000, guid: ae6fa946f8b1482418d78f30ec9bd556, type: 2}
     m_Motions: []
     m_Behaviours: []
     m_BlendingMode: 0
